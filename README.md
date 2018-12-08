@@ -1,2 +1,2 @@
-# Photoshop_algorithm
-the Photoshop algorithm 
+# 图像特效，Photoshop 滤镜算法
+
